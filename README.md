@@ -1,7 +1,3 @@
-* she/her
-* ✨
-* 🏳️‍🌈
-
 ### The Encyclopedia of Me 👋
 
 I’m a developer with a colourful background in arts and technology, and a lot of experience to boot. 
